@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkachukwuEkwueme
-- 👀 I’m interested in Software Development in Medical, Forensics and Sports Technology
-- 🌱 I’m currently learning Data Structures and Algorithms in Java, Python, Prolog, Go, and Swift & SwiftUI.
+- 👀 I’m currently interested in Software Development in Medical, Embedded Systems Technology.
+- 🌱 I’m currently learning Data Structures and Algorithms in Java, Python, C, Go, JavaScript and HTML/CSS.
 - 📫 How to reach me email by aekwu066@uottawa.ca or phone number at 2899876642
 
 <!---
